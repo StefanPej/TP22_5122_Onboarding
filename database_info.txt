@@ -1,5 +1,5 @@
 server name: 5122tp22onboarding.mysql.database.azure.com
-database name: onboarding
+database name: environmental_impact
 
 USERS:
 
