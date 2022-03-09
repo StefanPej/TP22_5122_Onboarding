@@ -1,0 +1,16 @@
+server name: 5122tp22onboarding.mysql.database.azure.com
+database name: onboarding
+
+USERS:
+
+name: user1@5122tp22onboarding
+pw: user1
+
+name: user2@5122tp22onboarding
+pw: user2
+
+name: user3@5122tp22onboarding
+pw: user3
+
+name: user4@5122tp22onboarding
+pw: user4
